@@ -5,7 +5,7 @@
 	branch = master
 [submodule "build-self/cimgui"]
 	path = build-self/cimgui
-	url = https://github.com/cimgui/cimgui
+	url = https://github.com/extrawurst/cimgui
 [submodule "build-self/cimplot"]
 	path = build-self/cimplot
 	url = https://github.com/cimgui/cimplot.git
