@@ -1,17 +1,17 @@
-[submodule "1"]
+[submodule "imgui"]
 	path = build-self/cimgui/imgui
 	url = https://github.com/ocornut/imgui.git
 	branch = docking
-[submodule "2"]
+[submodule "cimgui"]
 	path = build-self/cimgui
-	url = https://github.com/extrawurst/cimgui
+	url = https://github.com/cimgui/cimgui
 	branch = docking_inter
-[submodule "3"]
+[submodule "cimplot"]
 	path = build-self/cimplot
 	url = https://github.com/cimgui/cimplot.git
-[submodule "4"]
+[submodule "cimnodes"]
 	path = build-self/cimnodes
 	url = https://github.com/cimgui/cimnodes.git
-[submodule "5"]
+[submodule "cimguizmo"]
 	path = build-self/cimguizmo
 	url = https://github.com/cimgui/cimguizmo.git
