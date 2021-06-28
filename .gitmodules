@@ -1,11 +1,6 @@
-[submodule "imgui"]
-	path = build-self/cimgui/imgui
-	url = https://github.com/ocornut/imgui.git
-	branch = docking
 [submodule "cimgui"]
 	path = build-self/cimgui
-	url = https://github.com/cimgui/cimgui.git
-	branch = docking_inter
+	url = https://github.com/extrawurst/cimgui
 [submodule "cimplot"]
 	path = build-self/cimplot
 	url = https://github.com/cimgui/cimplot.git
