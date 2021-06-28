@@ -11,7 +11,7 @@ git clone https://github.com/shlifedev/.net-imgui-native-build-guide
 cd .net-imgui-native-build-guide
 git submodule update --init --recursive
 start ci-build.cmd
-start build/x64/Release
+start build\x64\Release
  ```
 
  # 3. Result
