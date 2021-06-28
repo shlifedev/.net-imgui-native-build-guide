@@ -1,7 +1,7 @@
 [submodule "imgui"]
 	path = build-self/cimgui/imgui
 	url = https://github.com/ocornut/imgui.git
-	branch = master
+	branch = docking
 [submodule "cimgui"]
 	path = build-self/cimgui
 	url = https://github.com/extrawurst/cimgui
