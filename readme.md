@@ -5,11 +5,13 @@ This is cimgui build guide for ImGuI.Net
  https://cmake.org/  
  https://git-scm.com/ 
   
- # 2. Build
+ # 2. Clone & Build
  ```
-git clone -b additional_libraries --single-branch --recursive https://github.com/shlifedev/ImGui.NET-nativebuild build-self
-cd build-self
-ci-build.cmd
+git clone https://github.com/shlifedev/.net-imgui-native-build-guide
+cd .net-imgui-native-build-guide
+git submodule update --init --recursive
+start ci-build.cmd
+start build/x64/Release
  ```
 
  # 3. Result
