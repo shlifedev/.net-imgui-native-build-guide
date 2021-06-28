@@ -10,8 +10,8 @@ This is cimgui build guide for ImGuI.Net
 git clone https://github.com/shlifedev/.net-imgui-native-build-guide
 cd .net-imgui-native-build-guide
 git submodule update --init --recursive
+cd self-build
 start ci-build.cmd
-start build\x64\Release
  ```
 
  # 3. Result
