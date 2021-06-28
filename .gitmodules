@@ -1,5 +1,5 @@
 
-[submodule "build-self/cimguizmo"]
+[submodule "build-self/cimgui/imgui"]
 	path = build-self/cimgui/imgui
 	url = https://github.com/ocornut/imgui.git
 	branch = master
