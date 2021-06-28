@@ -5,6 +5,7 @@
 [submodule "cimgui"]
 	path = build-self/cimgui
 	url = https://github.com/extrawurst/cimgui
+	branch = docking_inter
 [submodule "cimplot"]
 	path = build-self/cimplot
 	url = https://github.com/cimgui/cimplot.git
