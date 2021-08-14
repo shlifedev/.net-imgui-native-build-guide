@@ -1,5 +1,6 @@
 
-This is cimgui build guide for ImGuI.Net
+This is cimgui build guide for ImGuI.Net  
+use this if you need implat, imnode..
 
 # 1. Install Cmake & Git
  https://cmake.org/  
